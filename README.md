@@ -1,4 +1,4 @@
-# internship
+# Internship
 
 FSFTN is offering summer internships for college students. The internship will be a remote intership (which means that you can work from your choice of location) and the duration of the intership is flexible ranging between 3-5 weeks. 
 
