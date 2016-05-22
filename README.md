@@ -30,7 +30,7 @@ Those applying should be familiar with:
 Tiiming for Intern<br/>
 3-5 weeks
 
-# Rules and Regulation-  suggested <br/>
+# Rules and Regulation <br/>
 1.Work from home <br/>
 2.6 hrs of work per day -  (Why are we enforcing it. Lets leave it to the mentor and mentee on how long they want to work) <br/>
 3.Daily report   (you have a libreboard of tasks, why a report ? Do we write report in our office ? I dont )<br/>
